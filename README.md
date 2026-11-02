@@ -14,7 +14,7 @@
 > Cross-border cost accounting is complicated, but using this toolkit is effortless. Every matching rule, currency conversion, and cost allocation formula is already pre-built and locked in place. **You never even need to double-click a cell corner to drag or copy formulas down.** Simply download the workbook, paste your raw supplier and Seller Central data into the input columns, and get instant, clear visual feedback on which SKUs to scale, reprice, or discontinue.
 >
 > - 🌐 **60-Second Browser Sandbox (Free):** [Launch the Free Online Amazon FBA Profit & Landed Cost Calculator to Test Sample SKUs Instantly](#)
-> - 📥 **Full Auto-Calculating Excel Workbook:** [Download the Ready-to-Use Amazon SKU Profitability Excel Template (.xlsx) — Paste Your Data & See Results Immediately](https://theseusworkshop.com/l/itnjmp)
+> - 📥 **Full Auto-Calculating Excel Workbook:** [Download the Ready-to-Use Amazon SKU Profitability Excel Template (.xlsx) — Paste Your Data & See Results Immediately](https://theseusworkshop.com/l/itnjmp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=amazon-fba-profit-calculator)
 >
 > *Risk-Free Guarantee: The downloadable Excel spreadsheet template includes a 30-day, no-questions-asked money-back guarantee.*
 
@@ -58,7 +58,7 @@ Use the free browser version to test how the dashboard works in seconds. When yo
 
 Next month, simply paste your newest Seller Central exports and supplier invoices at the bottom of the input tables. The workbook automatically extends every formula, updates your historical trend charts, and refreshes your SKU profit rankings in one step.
 
-👉 **[Download the Auto-Calculating Amazon SKU Profitability Excel Template (.xlsx) — Paste Your Data & Get Instant Decision Feedback](https://theseusworkshop.com/l/itnjmp)**
+👉 **[Download the Auto-Calculating Amazon SKU Profitability Excel Template (.xlsx) — Paste Your Data & Get Instant Decision Feedback](https://theseusworkshop.com/l/itnjmp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=amazon-fba-profit-calculator)**
 
 ---
 
@@ -126,7 +126,7 @@ This toolkit is built for e-commerce sellers and operators who want enterprise-g
 
 > **Stop Guessing Your Margins. Let the Pre-Built Formulas Do the Work.**
 > - 🌐 **Try the Instant Browser Sandbox:** [Open the Free Online Amazon FBA Landed Cost & SKU Profit Calculator](#)
-> - 📥 **Download the Plug-and-Play Excel Workbook:** [Get the Auto-Calculating Amazon Multi-Marketplace Profitability Excel Template (.xlsx) — Paste Your Data & See Your Real Profit Today](https://theseusworkshop.com/l/itnjmp)
+> - 📥 **Download the Plug-and-Play Excel Workbook:** [Get the Auto-Calculating Amazon Multi-Marketplace Profitability Excel Template (.xlsx) — Paste Your Data & See Your Real Profit Today](https://theseusworkshop.com/l/itnjmp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=amazon-fba-profit-calculator)
 
 ---
 

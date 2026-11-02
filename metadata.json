@@ -1,6 +1,0 @@
-{
-  "name": "Theseus Workshop",
-  "description": "Cross-Marketplace SKU Landed Cost Accounting & Profit Intelligence Engine",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
