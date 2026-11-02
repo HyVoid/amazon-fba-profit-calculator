@@ -1,18 +1,20 @@
 # Amazon FBA Profit Calculator & Multi-Marketplace SKU Landed Cost Excel Template (US, CA, UK, AU)
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/258029bb-20ff-44d7-9d10-507e8333eaf3" />
+
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-![Platform](https://img.shields.io/badge/Platform-Free%20Web%20Calculator%20%2B%20Excel%20Template-217346)
-![Tool Type](https://img.shields.io/badge/Tool-Amazon%20FBA%20Profitability%20Tracker-2251FF)
+![Platform](https://img.shields.io/badge/Platform-Free%20Web%20Calculator%20%2B%20Auto--Expanding%20Excel-217346)
+![Tool Type](https://img.shields.io/badge/Tool-Zero--Formula%20Profit%20Tracker-2251FF)
 ![Marketplaces](https://img.shields.io/badge/Amazon%20Marketplaces-US%20%7C%20CA%20%7C%20UK%20%7C%20AU-orange)
 
-**A ready-to-use free online Amazon FBA profit calculator and downloadable Excel spreadsheet template built for Amazon sellers to track true SKU landed cost, Cost of Goods Sold (COGS), international freight allocation, FBA fulfillment fees, PPC advertising spend, and net operating profit margins across Amazon US, Canada, UK, and Australia.**
+**A ready-to-use free online Amazon FBA profit calculator and auto-calculating Excel spreadsheet template (.xlsx) built for Amazon sellers to track true SKU landed cost, batch COGS, shared international freight, FBA fulfillment fees, PPC advertising spend, and net operating profit margins across Amazon US, Canada, UK, and Australia.**
 
-> **Test Your SKU Margins Instantly in Your Browser**
+> **Complex E-Commerce Accounting Built In. Zero Excel Formula Skills Required.**
 >
-> Open the web-based calculator immediately without registering an account or installing plugins. Once you validate your numbers online, download the standalone Microsoft Excel workbook (`.xlsx`) to maintain permanent offline bookkeeping records, monthly financial audit trails, and historical batch cost tracking.
+> Cross-border cost accounting is complicated, but using this toolkit is effortless. Every matching rule, currency conversion, and cost allocation formula is already pre-built and locked in place. **You never even need to double-click a cell corner to drag or copy formulas down.** Simply download the workbook, paste your raw supplier and Seller Central data into the input columns, and get instant, clear visual feedback on which SKUs to scale, reprice, or discontinue.
 >
-> - 🌐 **Try the Free Web Tool:** [Launch the Free Online Amazon FBA Profit & Landed Cost Calculator (Instant Browser Access)](#)
-> - 📥 **Get the Full Spreadsheet:** [Download the Multi-Marketplace Amazon SKU Profitability Excel Template (.xlsx) for Monthly Bookkeeping](#)
+> - 🌐 **60-Second Browser Sandbox (Free):** [Launch the Free Online Amazon FBA Profit & Landed Cost Calculator to Test Sample SKUs Instantly](#)
+> - 📥 **Full Auto-Calculating Excel Workbook:** [Download the Ready-to-Use Amazon SKU Profitability Excel Template (.xlsx) — Paste Your Data & See Results Immediately](#)
 >
 > *Risk-Free Guarantee: The downloadable Excel spreadsheet template includes a 30-day, no-questions-asked money-back guarantee.*
 
@@ -20,121 +22,122 @@
 
 ## What It Helps You Track: Amazon Seller Pain Points & Automated Spreadsheet Solutions
 
-| Common Seller Pain Point (Search Intent) | What Goes Wrong in Manual Bookkeeping | How This Amazon Profit Tracker & Cost Calculator Solves It |
+| Common Seller Pain Point (Search Intent) | What Goes Wrong in Manual Bookkeeping | How This Pre-Built Amazon Profit Tracker Solves It Automatically |
 |---|---|---|
-| **How to calculate true landed cost per unit from Alibaba to Amazon FBA** | Sellers use factory unit prices as product cost and forget customs duties, FBA prep fees, and sea/air shipping bills. | Consolidates Alibaba commercial invoices, custom packaging, import tariffs, 3PL prep charges, and international freight into an exact **Unit Landed Cost (COGS)**. |
-| **How to track inventory batch cost changes over time (Historical COGS)** | Updating a single price cell overwrites past months, ruining historical profit margins when supplier prices fluctuate. | Tracks inventory purchases by procurement batch so January sales use January landed costs and March sales use March landed costs. |
-| **How to combine Amazon US, CA, UK, and AU sales into one currency** | Multi-currency payouts (USD, CAD, GBP, AUD) sit in separate Seller Central tabs, making total brand profit impossible to see. | Maps country-specific ASINs and SKUs to a unified **Master SKU** and converts multi-country revenue and expenses into one group reporting currency. |
-| **How to stop double-counting Amazon FBA fees, PPC spend, and storage charges** | Exporting Seller Central settlement reports, Campaign Manager PPC reports, and FBA storage CSVs often duplicates fee deductions. | Applies authoritative report-source rules and unique transaction IDs to separate referral fees, FBA fulfillment fees, PPC ad spend, and monthly storage costs accurately. |
-| **How to find which Amazon SKUs are actually losing money after ads (TACoS & Net Margin)** | Products show high top-line revenue in Seller Central but quietly lose cash after high PPC advertising spend and refund deductions. | Calculates **SKU-Level Gross Margin** and **Net Operating Profit Margin** after deducting landed COGS, FBA fees, customer refunds, and PPC ad spend. |
-| **How to catch missing SKU costs and Seller Central data import errors** | Unmapped SKUs, missing freight bills, or blank supplier invoices silently inflate reported profit numbers. | Runs automated data-quality checks that flag unmapped marketplace SKUs, missing procurement costs, duplicate expense rows, and products falling below your target margin threshold. |
+| **How to calculate true landed cost per unit from Alibaba to Amazon FBA** | Sellers use factory unit prices as product cost and forget customs duties, FBA prep fees, and sea/air shipping bills. | Paste your invoice numbers once; the sheet automatically combines Alibaba prices, packaging, tariffs, 3PL prep, and freight into an exact **Unit Landed Cost (COGS)**. |
+| **How to track inventory batch cost changes over time (Historical COGS)** | Updating a single price cell overwrites past months, ruining historical profit margins when supplier prices fluctuate. | Built-in batch matching rules automatically link January sales to January landed costs and March sales to March landed costs without manual VLOOKUPs. |
+| **How to combine Amazon US, CA, UK, and AU sales into one currency** | Multi-currency payouts (USD, CAD, GBP, AUD) sit in separate Seller Central tabs, making total brand profit impossible to see. | Pre-wired currency tables automatically map local ASINs/SKUs to a unified **Master SKU** and convert multi-country sales into your home currency. |
+| **How to stop double-counting Amazon FBA fees, PPC spend, and storage charges** | Exporting Seller Central settlement reports, Campaign Manager PPC reports, and FBA storage CSVs often duplicates fee deductions. | Pre-configured deduplication rules automatically separate referral fees, FBA fulfillment fees, PPC ad spend, and storage costs so every dollar is counted once. |
+| **How to find which Amazon SKUs are actually losing money after ads (TACoS & Net Margin)** | Products show high top-line revenue in Seller Central but quietly lose cash after high PPC advertising spend and refund deductions. | Automatically calculates **SKU-Level Gross Margin** and **Net Operating Margin**, immediately highlighting money-losing products in red so you can cut wasted ad spend. |
+| **How to catch missing SKU costs and Seller Central data import errors** | Unmapped SKUs, missing freight bills, or blank supplier invoices silently inflate reported profit numbers. | Built-in audit alerts automatically flag unmapped SKUs, missing procurement costs, and low-margin products the moment you paste your data. |
 
 ---
 
-## Quick Start Workflow: How to Calculate Your Amazon FBA SKU Profit in 4 Steps
+## Quick Start Workflow: Paste Your Data & Get Instant Profit Decisions (Zero Formula Editing)
 
-This toolkit runs on a simple setup: define your cost rules once, paste your raw Seller Central and supplier records into the input tabs, and read your automated SKU profit dashboard.
+You do not need to know how to write Excel formulas, build PivotTables, or drag cell corners down thousands of rows. The workbook uses dynamic auto-expanding tables: the moment you paste new rows of data, every calculation updates across the entire file automatically.
 
-### Step 1: Configure Your Amazon Accounting & Freight Allocation Rules
-Open the `01_Control_Panel` tab in the [Free Online Amazon FBA Profit Calculator](#) or Excel workbook. Select your reporting month, home reporting currency (USD, CAD, GBP, EUR, or AUD), freight split method (by CBM volume, chargeable weight in kg, or unit quantity), historical COGS accounting method, and minimum net margin warning thresholds.
+### Step 1: Pick Your Reporting Currency & Preferences via Simple Dropdowns
+Open the `01_Control_Panel` tab in the [Free Online Amazon FBA Profit Calculator](#) or Excel workbook. Select your home currency (USD, CAD, GBP, EUR, or AUD), preferred freight split method (by CBM volume, weight, or unit count), and target minimum profit margin from clean dropdown menus.
 
-### Step 2: Paste Your Raw Supplier Invoices & Amazon Seller Central Reports
-Populate the color-coded data input sheets using the files you already download every month:
-- **SKU Mapping Table:** Link your local US, CA, UK, and AU marketplace SKUs to a single Master SKU.
-- **Alibaba & Supplier Purchase Orders:** Paste invoice amounts, packaging costs, import duties, and received warehouse quantities.
-- **Freight Forwarder Invoices:** Enter total sea or air shipping bills along with shipment reference IDs and foreign exchange rates.
-- **Amazon Seller Central Exports:** Copy and paste your Date Range Settlement Reports, Sponsored Products PPC Advertising CSVs, FBA Monthly Inventory Storage Fee reports, and customer return logs.
+### Step 2: Copy & Paste Your Existing Invoices and Seller Central Exports
+Drop your raw business records straight into the designated input tabs. **As soon as you paste your rows, the pre-built formulas expand and match everything behind the scenes—you do not even need to double-click or drag a single formula cell:**
+- **SKU Mapping List:** Paste your US, CA, UK, and AU marketplace SKUs alongside your Master SKU names.
+- **Alibaba & Supplier POs:** Paste your purchase order quantities, unit prices, packaging fees, and customs duties.
+- **Freight Forwarder Bills:** Paste your total sea or air shipping invoice amounts and monthly exchange rates.
+- **Amazon Seller Central Reports:** Copy and paste your Date Range Settlement rows, Sponsored Products PPC spend, FBA storage fees, and customer refund logs.
 
-### Step 3: Analyze Your Automated SKU Profitability & Net Margin Dashboard
-Open the `09_Profitability_Dashboard` tab to see your true financial performance:
-- **Brand-Wide P&L Summary:** Total gross revenue, customer refunds, landed COGS, FBA referral and fulfillment fees, PPC advertising spend (TACoS impact), and net operating profit.
-- **Marketplace Margin Breakdown:** Side-by-side net profit comparison across Amazon US, Canada, UK, and Australia.
-- **Master SKU Profit Ranking:** Filter by product category or country to spot cash-cow SKUs and bleeders that need price increases or PPC budget cuts.
+### Step 3: Read Your Instant Business Decision Dashboard
+Switch straight to the `09_Profitability_Dashboard` tab. With zero manual calculation, you get immediate answers to guide your next move:
+- **Instant Profit & Cash-Flow Clarity:** See exact brand-wide revenue, landed COGS, Amazon FBA fees, PPC ad spend, and net operating profit in one view.
+- **Actionable SKU Traffic Lights:** Immediately spot which Master SKUs are true cash cows ready for inventory restocking, and which SKUs are bleeding money after PPC and FBA fees so you can raise prices or pause unprofitable ad campaigns today.
+- **Cross-Border Marketplace Comparison:** Compare net margins across Amazon US, Canada, UK, and Australia side by side to see which country deserves your next inventory shipment.
 
-### Step 4: Save Your Monthly Financial History with the Reusable Excel Template
-The free browser calculator is built for quick single-session testing and immediate margin checks. To save your company's private financial data locally, build a month-over-month historical profit archive, and refresh your accounting every 30 days without re-entering past purchase orders, switch to the offline Excel workbook.
+### Step 4: Download the Local Excel Workbook for One-Click Monthly Updates
+Use the free browser version to test how the dashboard works in seconds. When you are ready to run your own catalog without re-entering data every time, download the local Excel template (`.xlsx`).
 
-At the start of each new month, append your latest Alibaba invoices, freight bills, and Seller Central CSV exports into the workbook. The spreadsheet updates your multi-month trend lines, batch COGS calculations, and exception alerts automatically.
+Next month, simply paste your newest Seller Central exports and supplier invoices at the bottom of the input tables. The workbook automatically extends every formula, updates your historical trend charts, and refreshes your SKU profit rankings in one step.
 
-👉 **[Download the Reusable Multi-Marketplace Amazon SKU Profitability Excel Template (.xlsx) for Recurring Monthly Accounting](#)**
-
----
-
-## The Business Logic & Methodology: Why Seller Central Shows a Profit While Your Bank Account Shrinks
-
-Many new Amazon FBA sellers fall into the same financial trap: the Amazon Seller Central app shows $50,000 in monthly sales, yet there is no cash left in the bank account to pay for the next inventory reorder.
-
-This happens because standard marketplace dashboards only track **platform transactions**. They have no visibility into your supply chain, freight forwarder bills, or changing factory prices. This toolkit is built around four practical accounting realities to close those blind spots for beginners and growing brands alike:
-
-### 1. Factory Price Is Never Your True Product Cost (The Landed Cost Blind Spot)
-If you buy a garlic press on Alibaba for **$8.00 per unit**, your cost to sell that unit is much higher than $8.00. Before that item reaches an Amazon FBA fulfillment center, you pay for custom color boxes ($0.40), FNSKU barcode labeling ($0.20), US or UK import customs tariffs ($0.65), and ocean or air freight ($1.75). Your **True Landed Cost (COGS)** is actually **$11.00**. Evaluating your profit margin using the $8.00 factory price inflates your perceived profit by $3.00 on every single unit sold.
-
-### 2. Shared Freight Bills Distort Individual SKU Margins (The CBM & Weight Blind Spot)
-When your freight forwarder sends a $3,000 shipping invoice for a single sea shipment containing 500 oversized yoga mats and 2,000 tiny resistance bands, dividing the shipping cost equally per unit destroys your cost accuracy. Small, light items end up subsidizing heavy, bulky items. This spreadsheet allocates shared freight bills across SKUs by **cubic meter volume (CBM)**, **chargeable weight**, or **unit count**, showing you the exact shipping burden each product carries.
-
-### 3. Supplier Price Increases Ruin Historical Profit Tracking (The Batch COGS Blind Spot)
-Suppose you bought Batch #1 in January at a landed cost of $8.00 per unit, and raw material inflation pushed Batch #2 in March up to $10.00 per unit. In a basic spreadsheet, changing the SKU cost cell from $8.00 to $10.00 overwrites your January and February profit reports, making it look like your business was less profitable all year. Our **Batch-Level COGS Engine** matches historical sales to the exact procurement batch active during that reporting period.
-
-### 4. Gross Margin Hides Platform Fee Bleed (The Net Operating Profit Blind Spot)
-A product bringing in $100.00 in net sales with $35.00 in landed COGS appears to have a healthy $65.00 gross profit. However, once Amazon deducts $15.00 in referral commissions, $10.00 in FBA pick-and-pack fulfillment fees, $20.00 in Sponsored Products PPC advertising spend, and $8.00 in monthly warehouse storage and return processing fees, your **True Net Operating Profit** is only **$12.00 (12% net margin)**. By bringing supply chain costs and overlapping Seller Central expense reports into one table, you see exactly how many dollars remain after every cost of doing business is paid.
+👉 **[Download the Auto-Calculating Amazon SKU Profitability Excel Template (.xlsx) — Paste Your Data & Get Instant Decision Feedback](#)**
 
 ---
 
-## Comparison: Manual Spreadsheets vs. This Amazon SKU Profitability & Landed Cost Toolkit
+## The Business Logic & Methodology: Complex Accounting Under the Hood, Effortless Clarity on the Surface
 
-| Accounting & Operations Challenge | Standard Manual Spreadsheets & Basic Calculators | With This Multi-Marketplace SKU Cost & Profit Toolkit |
+> **Why read this section?** You do **not** need to calculate any of the math below yourself—the Excel template executes every single rule automatically the moment you paste your data. We explain the underlying business logic here so complete beginners can see *why* Seller Central numbers are misleading, and how this tool protects your bank account from hidden losses.
+
+Many Amazon FBA sellers experience a painful mystery: the Seller Central app shows $50,000 in monthly sales, yet there is no cash left in the bank account to pay for the next inventory reorder.
+
+This happens because standard marketplace dashboards only track **platform payouts**. They ignore your off-Amazon supply chain, freight forwarder bills, and changing factory prices. Here are the four hidden financial traps that this spreadsheet solves for you automatically:
+
+### 1. Factory Price Is Never Your True Product Cost (Solved Automatically)
+If you buy a product on Alibaba for **$8.00 per unit**, your real cost to sell that unit is much higher than $8.00. Before that item reaches an Amazon FBA warehouse, you pay for custom packaging ($0.40), FNSKU labeling ($0.20), import customs tariffs ($0.65), and ocean or air freight ($1.75). Your **True Landed Cost (COGS)** is actually **$11.00**. Evaluating profit using the $8.00 factory price inflates your perceived profit by $3.00 on every sale.
+* **How the template does it for you:** Just type or paste your invoice totals; the sheet automatically sums and distributes packaging, duties, prep, and shipping down to every individual unit.
+
+### 2. Shared Freight Bills Distort Individual SKU Margins (Solved Automatically)
+When your freight forwarder sends a $3,000 shipping bill for a shipment containing 500 large yoga mats and 2,000 tiny resistance bands, dividing shipping equally per unit ruins your pricing accuracy. Small items end up subsidizing bulky items.
+* **How the template does it for you:** Pick "CBM Volume" or "Chargeable Weight" in the dropdown menu once. The spreadsheet automatically splits every consolidated shipping bill across your SKUs based on their exact size or weight.
+
+### 3. Supplier Price Increases Ruin Historical Profit Tracking (Solved Automatically)
+Suppose Batch #1 in January cost $8.00 per unit landed, and raw material inflation pushed Batch #2 in March up to $10.00 per unit. In a basic spreadsheet, changing the cost cell from $8.00 to $10.00 overwrites your January and February profit reports, corrupting your historical numbers.
+* **How the template does it for you:** Our pre-built **Batch-Level COGS Engine** automatically matches each month's sales to the active procurement batch from that period—keeping your past financial history 100% intact.
+
+### 4. Gross Margin Hides Platform Fee Bleed (Solved Automatically)
+A product bringing in $100.00 in net sales with $35.00 in landed COGS looks like it makes a $65.00 profit. Once Amazon deducts $15.00 in referral commissions, $10.00 in FBA pick-and-pack fees, $20.00 in PPC advertising spend, and $8.00 in storage and return fees, your **True Net Operating Profit** is only **$12.00 (12% net margin)**.
+* **How the template does it for you:** Paste your raw Seller Central reports into the input tabs. The workbook automatically deduplicates overlapping fees and shows you the exact dollar amount left in your pocket per SKU.
+
+---
+
+## Comparison: Manual Spreadsheets vs. This Pre-Built Amazon SKU Profitability Toolkit
+
+| Accounting & Operations Challenge | DIY Manual Spreadsheets & Basic Calculators | With This Auto-Calculating Amazon SKU Profit Toolkit |
 |---|---|---|
-| **Alibaba to FBA Landed Cost Calculation** | Evaluates SKUs using FOB factory prices; customs duties, 3PL prep fees, and freight bills sit in separate folders. | Consolidates commercial invoices, tariffs, FBA prep, and allocated shipping bills into an exact **Unit Landed COGS**. |
-| **Historical Inventory Batch Costing** | Overwrites old supplier prices with the latest PO price, corrupting historical monthly P&L margins. | Matches monthly sales to historical procurement batches so past margin trends remain locked and audit-ready. |
-| **Consolidated Freight Forwarder Allocation** | Splits shipping invoices evenly per unit or leaves freight as a lump-sum overhead line item. | Allocates shared sea and air freight bills to specific SKUs by **CBM volume, chargeable weight (kg/lbs), or unit quantity**. |
-| **Multi-Country Seller Central Reporting (US, CA, UK, AU)** | Keeps USD, CAD, GBP, and AUD reports in separate files with incompatible local marketplace SKUs. | Maps regional SKUs to a single **Master SKU** and converts all marketplace transactions into your home reporting currency. |
-| **Overlapping Amazon Expense Reports** | Double-counts PPC advertising spend and FBA storage fees that appear in both Settlement Reports and standalone CSV exports. | Enforces authoritative report-source rules and unique expense IDs so every Amazon fee is counted once. |
-| **SKU-Level Net Profit & Exception Auditing** | Tracks top-line revenue or gross margin while overlooking high TACoS ad bleed and missing cost entries. | Displays gross profit, net operating margin, and automated error flags for unmapped SKUs or missing purchase orders side by side. |
+| **Formula Setup & Maintenance** | Requires writing complex `VLOOKUP`, `SUMIFS`, and `INDEX/MATCH` formulas and manually dragging cells down every month. | **100% pre-built and auto-expanding.** Paste your raw data rows and every formula calculates instantly without double-clicking or dragging cell corners. |
+| **Alibaba to FBA Landed Cost Calculation** | Evaluates SKUs using FOB factory prices; customs duties, 3PL prep fees, and freight bills sit in separate folders. | Automatically consolidates commercial invoices, tariffs, FBA prep, and allocated shipping bills into an exact **Unit Landed COGS**. |
+| **Historical Inventory Batch Costing** | Overwrites old supplier prices with the latest PO price, corrupting historical monthly P&L margins. | Automatically matches monthly sales to historical procurement batches so past margin trends remain locked and audit-ready. |
+| **Consolidated Freight Forwarder Allocation** | Splits shipping invoices evenly per unit or leaves freight as a lump-sum overhead line item. | Automatically allocates shared sea and air freight bills to specific SKUs by **CBM volume, chargeable weight (kg/lbs), or unit quantity**. |
+| **Multi-Country Seller Central Reporting (US, CA, UK, AU)** | Keeps USD, CAD, GBP, and AUD reports in separate files with incompatible local marketplace SKUs. | Automatically maps regional SKUs to a single **Master SKU** and converts all marketplace transactions into your home reporting currency. |
+| **SKU-Level Decision Feedback** | Leaves you staring at raw rows of numbers without knowing which products are hurting your cash flow. | Highlights net profit margins, TACoS ad impact, and missing-data warnings immediately so even beginners know which SKUs to reprice or cut. |
 
 ---
 
 ## Who Uses This Amazon FBA Profit Tracker & Landed Cost Spreadsheet (Role & Scenario Guide)
 
-This toolkit is built for e-commerce operators who need accurate unit economics without paying monthly SaaS subscriptions or hiring an enterprise ERP consultant:
+This toolkit is built for e-commerce sellers and operators who want enterprise-grade financial clarity with zero spreadsheet setup or monthly SaaS subscription fees:
 
-- **Amazon FBA Beginners & First-Time Private Label Sellers:** Looking for a **ready-to-use Amazon FBA profit calculator spreadsheet** to verify if their first 1 to 10 SKUs are truly making money after Alibaba manufacturing, sea freight, customs duties, and launch PPC advertising spend.
-- **Multi-Marketplace Amazon Brand Owners (US, CA, UK, AU):** Operating across North America, the UK, and Australia who need a **multi-currency Amazon profitability Excel template** to consolidate USD, CAD, GBP, and AUD Seller Central settlements into a single Master SKU P&L dashboard.
-- **E-Commerce Bookkeepers, CPAs & Fractional CFOs:** Managing monthly close processes for Amazon sellers who need a standardized **inventory landed cost and COGS tracking workbook** with clear audit trails, batch cost history, and freight allocation schedules.
-- **Amazon Operations & PPC Agency Account Managers:** Investigating why high-revenue products have low cash flow by using a **SKU-level net margin and TACoS analysis tool** that separates FBA fulfillment fees, monthly storage charges, customer refunds, and advertising costs.
-- **Wholesale, Online Arbitrage & Batch Inventory Buyers:** Purchasing inventory across multiple supplier POs with fluctuating unit prices and shared shipping pallets who need an **automated landed cost calculator** to split freight by weight or volume.
+- **Complete Beginners & First-Time Amazon FBA Sellers:** Who neither know cost accounting nor want to wrestle with Excel formulas. Download the **ready-to-use Amazon FBA profit calculator spreadsheet**, paste your first supplier invoice and Seller Central numbers, and see your real net profit per unit in minutes.
+- **Multi-Marketplace Amazon Brand Owners (US, CA, UK, AU):** Operating across North America, the UK, and Australia who need a **plug-and-play multi-currency Amazon profitability Excel template** that automatically consolidates USD, CAD, GBP, and AUD settlements into one Master SKU dashboard.
+- **Amazon Operations & PPC Managers:** Who need immediate **SKU-level net margin and TACoS decision feedback** by pasting campaign and settlement exports to see which products can afford higher ad bids and which need immediate cost cuts.
+- **E-Commerce Bookkeepers, CPAs & Fractional CFOs:** Looking for a standardized **inventory landed cost and batch COGS tracking workbook** with locked calculation rules, automated exception flags, and zero formula-dragging errors.
+- **Wholesale & Batch Inventory Buyers:** Purchasing multiple SKUs on shared shipping invoices who want an **automated landed cost calculator** that splits freight by weight or volume the instant an invoice is pasted in.
 
 ---
 
-## Common Scenarios & Long-Tail Use Cases Covered by This Toolkit
+## Common Scenarios & Long-Tail Questions Answered Instantly by Pasting Your Data
 
-If you are searching for a practical spreadsheet or browser calculator to solve any of these everyday e-commerce accounting scenarios, this toolkit handles them out of the box:
-
-1. **"How do I split one freight forwarder shipping invoice across multiple Amazon SKUs?"**
-   Enter your total shipment bill once and let the sheet divide the shipping cost across every SKU in that shipment based on cubic meters (CBM), chargeable weight, or unit count.
-2. **"Why does my Amazon Seller Central settlement report not match my real profit?"**
-   Combine your Seller Central payout reports with your off-Amazon supplier invoices, customs duties, and standalone storage/PPC reports without double-counting overlapping fee columns.
+1. **"How do I split one freight forwarder shipping invoice across multiple Amazon SKUs without doing manual math?"**
+   Paste your shipment total once. The pre-built table automatically divides the shipping cost across every SKU in that shipment based on cubic meters (CBM), chargeable weight, or unit count.
+2. **"Why does my Amazon Seller Central settlement report not match my bank account balance?"**
+   Paste your Seller Central payout reports alongside your supplier invoices and standalone storage/PPC reports. The workbook automatically strips out duplicate fee columns and reveals where your cash actually went.
 3. **"How do I track Amazon FBA profitability across the US, Canada, UK, and Australia in one spreadsheet?"**
-   Link country-specific SKUs to one Master SKU and apply monthly foreign exchange rates to view both local marketplace margins and total company profit in one currency.
-4. **"How do I calculate Amazon COGS when my supplier changes prices every batch?"**
-   Log each Alibaba purchase order as a separate batch so your historical monthly profit margins reflect the actual inventory cost active at that time.
+   Paste your regional sales reports into the input tab. The sheet automatically converts USD, CAD, GBP, and AUD into your home currency and ranks your Master SKUs by true net profit.
+4. **"How do I know which Amazon SKU to restock, raise prices on, or discontinue right now?"**
+   Open the automated dashboard right after pasting your data. Products falling below your target net margin threshold are flagged automatically so you can take action before ordering your next inventory batch.
 
-> **Ready to audit your catalog?**
-> - 🌐 **Start Free in Your Browser:** [Open the Interactive Amazon FBA Landed Cost & SKU Profit Calculator Online](#)
-> - 📥 **Own the Full Offline Workbook:** [Download the Complete Amazon Multi-Marketplace Profitability Excel Template (.xlsx)](#)
+> **Stop Guessing Your Margins. Let the Pre-Built Formulas Do the Work.**
+> - 🌐 **Try the Instant Browser Sandbox:** [Open the Free Online Amazon FBA Landed Cost & SKU Profit Calculator](#)
+> - 📥 **Download the Plug-and-Play Excel Workbook:** [Get the Auto-Calculating Amazon Multi-Marketplace Profitability Excel Template (.xlsx) — Paste Your Data & See Your Real Profit Today](#)
 
 ---
 
 ## About Theseus Workshop
 
-I build practical financial trackers, spreadsheet templates, and decision-support tools for e-commerce operators and small business owners who outgrow basic calculators but do not want the complexity or recurring cost of enterprise ERP software.
+I build plug-and-play financial trackers, automated spreadsheet templates, and decision-support tools for e-commerce operators and small business owners. We package complex financial and operational logic into familiar spreadsheets where every formula is already wired together—so you can skip the technical setup and go straight to making confident business decisions.
 
-Every tool is designed around one question: *What exact numbers do you need in front of you to make your next inventory, pricing, or advertising decision with confidence?*
+Every tool is built around one principle: *You should spend your time acting on clear financial feedback, not building spreadsheets or debugging broken formulas.*
 
-The **Amazon Multi-Marketplace SKU Cost & Profitability Analysis Toolkit** turns raw procurement batches, shared international freight bills, multi-currency marketplace payouts, and platform operating fees into a structured, repeatable workflow for measuring real product profitability.
-
-🔗 **Explore More Business & E-Commerce Decision Tools:**
-Visit our official store at **[Theseus Workshop (Theseusworkshop.com) — Practical Excel Templates, Financial Models & E-Commerce Profit Trackers](https://theseusworkshop.com)** to browse our full library of downloadable spreadsheets, calculators, and operational toolkits.
-
+🔗 **Explore More Plug-and-Play Business & E-Commerce Decision Tools:**
+Visit our official store at **[Theseus Workshop (Theseusworkshop.com) — Ready-to-Use Excel Templates, Automated Financial Models & E-Commerce Profit Trackers](https://theseusworkshop.com)** to browse our full library of downloadable spreadsheets, calculators, and operational toolkits.
 ## Technical Details
 
 <details>
