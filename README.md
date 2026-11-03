@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+
 # Amazon FBA Profit Calculator & Multi-Marketplace SKU Landed Cost Excel Template (US, CA, UK, AU)
 <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/258029bb-20ff-44d7-9d10-507e8333eaf3" />
 
@@ -1173,8 +1175,6 @@ Together, these methods turn fragmented operational records into a consistent ba
 Theseus Workshop develops lightweight Excel-based business analysis and decision-support tools for recurring operational and financial problems.
 
 Explore additional tools through the project maintainer's GitHub profile and product collection.
-
-<!-- Add the published GitHub profile and product-store URLs when available. -->
 
 ## License
 
