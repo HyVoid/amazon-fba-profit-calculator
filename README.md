@@ -13,7 +13,7 @@
 >
 > Cross-border cost accounting is complicated, but using this toolkit is effortless. Every matching rule, currency conversion, and cost allocation formula is already pre-built and locked in place. **You never even need to double-click a cell corner to drag or copy formulas down.** Simply download the workbook, paste your raw supplier and Seller Central data into the input columns, and get instant, clear visual feedback on which SKUs to scale, reprice, or discontinue.
 >
-> - 🌐 **60-Second Browser Sandbox (Free):** [Launch the Free Online Amazon FBA Profit & Landed Cost Calculator to Test Sample SKUs Instantly](#)
+> - 🌐 **60-Second Browser Sandbox (Free):** [Launch the Free Online Amazon FBA Profit & Landed Cost Calculator to Test Sample SKUs Instantly](https://hyvoid.github.io/amazon-fba-profit-calculator/)
 > - 📥 **Full Auto-Calculating Excel Workbook:** [Download the Ready-to-Use Amazon SKU Profitability Excel Template (.xlsx) — Paste Your Data & See Results Immediately](https://theseusworkshop.com/l/itnjmp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=amazon-fba-profit-calculator)
 >
 > *Risk-Free Guarantee: The downloadable Excel spreadsheet template includes a 30-day, no-questions-asked money-back guarantee.*
@@ -38,7 +38,7 @@
 You do not need to know how to write Excel formulas, build PivotTables, or drag cell corners down thousands of rows. The workbook uses dynamic auto-expanding tables: the moment you paste new rows of data, every calculation updates across the entire file automatically.
 
 ### Step 1: Pick Your Reporting Currency & Preferences via Simple Dropdowns
-Open the `01_Control_Panel` tab in the [Free Online Amazon FBA Profit Calculator](#) or Excel workbook. Select your home currency (USD, CAD, GBP, EUR, or AUD), preferred freight split method (by CBM volume, weight, or unit count), and target minimum profit margin from clean dropdown menus.
+Open the `01_Control_Panel` tab in the [Free Online Amazon FBA Profit Calculator](https://hyvoid.github.io/amazon-fba-profit-calculator/) or Excel workbook. Select your home currency (USD, CAD, GBP, EUR, or AUD), preferred freight split method (by CBM volume, weight, or unit count), and target minimum profit margin from clean dropdown menus.
 
 ### Step 2: Copy & Paste Your Existing Invoices and Seller Central Exports
 Drop your raw business records straight into the designated input tabs. **As soon as you paste your rows, the pre-built formulas expand and match everything behind the scenes—you do not even need to double-click or drag a single formula cell:**
@@ -125,7 +125,7 @@ This toolkit is built for e-commerce sellers and operators who want enterprise-g
    Open the automated dashboard right after pasting your data. Products falling below your target net margin threshold are flagged automatically so you can take action before ordering your next inventory batch.
 
 > **Stop Guessing Your Margins. Let the Pre-Built Formulas Do the Work.**
-> - 🌐 **Try the Instant Browser Sandbox:** [Open the Free Online Amazon FBA Landed Cost & SKU Profit Calculator](#)
+> - 🌐 **Try the Instant Browser Sandbox:** [Open the Free Online Amazon FBA Landed Cost & SKU Profit Calculator](https://hyvoid.github.io/amazon-fba-profit-calculator/)
 > - 📥 **Download the Plug-and-Play Excel Workbook:** [Get the Auto-Calculating Amazon Multi-Marketplace Profitability Excel Template (.xlsx) — Paste Your Data & See Your Real Profit Today](https://theseusworkshop.com/l/itnjmp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=amazon-fba-profit-calculator)
 
 ---
