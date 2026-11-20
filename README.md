@@ -33,6 +33,14 @@
 | **How to find which Amazon SKUs are actually losing money after ads (TACoS & Net Margin)** | Products show high top-line revenue in Seller Central but quietly lose cash after high PPC advertising spend and refund deductions. | Automatically calculates **SKU-Level Gross Margin** and **Net Operating Margin**, immediately highlighting money-losing products in red so you can cut wasted ad spend. |
 | **How to catch missing SKU costs and Seller Central data import errors** | Unmapped SKUs, missing freight bills, or blank supplier invoices silently inflate reported profit numbers. | Built-in audit alerts automatically flag unmapped SKUs, missing procurement costs, and low-margin products the moment you paste your data. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1jnD4onEtpzNXAkpdtIErv7u5wy9xMstD/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Quick Start Workflow: Paste Your Data & Get Instant Profit Decisions (Zero Formula Editing)
